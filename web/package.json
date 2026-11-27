@@ -1,0 +1,20 @@
+{
+  "name": "cancha-comunal-web",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "type": "module",
+  "dependencies": {
+    "@stellar/stellar-sdk": "^14.6.1",
+    "@stellar/varial-sdk": "^7.0.0",
+    "buffer": "^6.0.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "vite": "^8.4.0"
+  },
+  "private": true
+}
